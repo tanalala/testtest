@@ -2,8 +2,7 @@ import boto3
 import json
 
 ip='47.94.192.132'
-access_key_id = 'AKIAQYLPMN5HIUI65MP3'
-secret_access_key = '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'
+
 region = 'us-east-2'
 
 session = boto3.Session(
